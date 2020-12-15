@@ -2,31 +2,31 @@
 
 During two weeks the students in WU20 built useless websites to practice their frontend skills.
 
-https://agnesuselesswebsite.netlify.app
-https://a-useless-website.netlify.app/
-https://upbeat-kowalevski-8a8786.netlify.app/
-https://throw-the-ball.vercel.app/
-https://fuckityouarelateanyway.netlify.app/
-https://tamakungchi.vercel.app/
-https://wonderful-useless-president-d1c318.netlify.app/
-https://useless-js.netlify.app/
-https://2020isoverparty.netlify.app/
-https://useless-web.vercel.app/
-https://splish-splash.netlify.app/
-https://friendly-button.netlify.app/
-https://hugocsundberg.github.io/Pet_the_cat/
-https://dontpress.netlify.app/
-https://popcatclicker.netlify.app/
-https://lessjs.netlify.app
-https://useless-langtons-ant.netlify.app/
-https://maoam-colors.netlify.app/
-https://snarkyartcritic.netlify.app/
-https://adoring-cori-4e0432.netlify.app/
-https://big-mistake-hyper.netlify.app
-https://uselessanimation.netlify.app/
-https://jeff-goldblum-says-shhh.vercel.app/
-https://useless-counter.netlify.app/
-https://useless-piano.netlify.app/
-https://freeloveadvice.netlify.app/ 
-https://sadquencer.vercel.app/
-https://fugginguseless.netlify.app
+1. https://useless-web.vercel.app/
+1. https://agnesuselesswebsite.netlify.app
+1. https://lessjs.netlify.app
+1. https://wonderful-useless-president-d1c318.netlify.app/
+1. https://freeloveadvice.netlify.app/ 
+1. https://adoring-cori-4e0432.netlify.app/
+1. https://useless-js.netlify.app/
+1. https://maoam-colors.netlify.app/
+1. https://upbeat-kowalevski-8a8786.netlify.app/
+1. https://useless-piano.netlify.app/
+1. https://useless-langtons-ant.netlify.app/
+1. https://sadquencer.vercel.app/
+1. https://2020isoverparty.netlify.app/
+1. https://splish-splash.netlify.app/
+1. https://fuckityouarelateanyway.netlify.app/
+1. https://snarkyartcritic.netlify.app/
+1. https://uselessanimation.netlify.app/
+1. https://useless-counter.netlify.app/
+1. https://dontpress.netlify.app/
+1. https://popcatclicker.netlify.app/
+1. https://throw-the-ball.vercel.app/
+1. https://big-mistake-hyper.netlify.app
+1. https://friendly-button.netlify.app/
+1. https://jeff-goldblum-says-shhh.vercel.app/
+1. https://a-useless-website.netlify.app/
+1. https://hugocsundberg.github.io/Pet_the_cat/
+1. https://tamakungchi.vercel.app/
+1. https://fugginguseless.netlify.app
