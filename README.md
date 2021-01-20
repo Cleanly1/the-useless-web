@@ -30,3 +30,9 @@ During two weeks the students in WU20 built useless websites to practice their f
 1. https://hugocsundberg.github.io/Pet_the_cat/
 1. https://tamakungchi.vercel.app/
 1. https://fugginguseless.netlify.app
+
+## WU19
+
+Atleast one of the students in WU19 got inspired to create a useless website after seeing WU20´s websites.
+
+1. https://some-kanye-quotes.netlify.app/
